@@ -62,8 +62,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](https://washington.zoom.us/rec/share/f1R03acGAeJzhs9s6Re6LsWTLVRt6uljoKKtAb3jGAF9v7A1GpSln1OJr7wSjoV8.dl1xB_rM5CcqbLU_?startTime=1648880746000) I wasn't able to submit a video because zoom cloud was giving me issues. It was stuck on "proccessing" for hours. And when I would try to record a new video it would pop up for processing.
-
+[My 5-minute Interview Recording](https://washington.zoom.us/rec/share/f1R03acGAeJzhs9s6Re6LsWTLVRt6uljoKKtAb3jGAF9v7A1GpSln1OJr7wSjoV8.dl1xB_rM5CcqbLU_?startTime=1648880746000)
 
 ## License
 
