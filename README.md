@@ -62,7 +62,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](your-link-here) I wasn't able to submit a video because zoom cloud was giving me issues. It was stuck on "proccessing" for hours. And when I would try to record a new video it would pop up for processing.
 
 
 ## License
